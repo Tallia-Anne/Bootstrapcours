@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&family=Gruppo&display=swap');
+
+
+.box {
+border: 1px solid black;
+}
+
+/* .col-12 {
+background-color: rgb(80, 147, 255);
+} */
+.color1 {
+background-color: aqua;
+}
+
+.color2 {
+background-color: rgb(22, 104, 104);
+}
+
+.color3 {
+background-color: rgb(68, 84, 84);
+}
+/* .btn-info {
+background-color: purple;
+border: 1px solid palevioletred;
+} */
+
+/* .display-1 {
+
+font-family: 'Zeyada', cursive;
+
+}
+.h1 {
+font-family: 'Baloo 2', cursive;
+}
+
+.h2 {
+font-family: 'Gruppo', cursive;
+} */
